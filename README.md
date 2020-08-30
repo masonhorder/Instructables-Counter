@@ -25,3 +25,15 @@ VS Code and PLatformIO Download Instructions:
 
 
 
+Parameters Insturctions:
+========================
+
+There are three parameters that you need to change. The following sections are instructions for each.
+
+**WIFI:**
+
+Simply just replace SSID with your network name(line #14)
+Then change Password and put in your wifi's password(Line #15)
+
+
+**URL:**
