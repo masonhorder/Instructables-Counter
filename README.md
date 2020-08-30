@@ -16,6 +16,7 @@ VS Code and PLatformIO Download Instructions:
 ----------------------------------------------
 
 1) On your computer navigate to the platformio projects file in terminal using the cd command, the file for macs is found 'documents/platformio/projects', at least for me.
+
 2)type in 'git clone https://github.com/masonhorder/Instructables-Counter'
 3) Open VSCode
 4) Go to PlatformIO home and open 'instructables-counter'
