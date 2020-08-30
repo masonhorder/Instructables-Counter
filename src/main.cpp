@@ -11,8 +11,8 @@
 
 // ---------------REPLACE THE FOLLOWING PARAMATERS----------------------
 
-char ssid[] = "Horder"; // Replace SSID with the name of your wifi network
-char password[] = "Skmadley"; // Replace Password with the password of your wifi network
+char ssid[] = "SSID"; // Replace SSID with the name of your wifi network
+char password[] = "Password"; // Replace Password with the password of your wifi network
 
 
 String projectUrl = "/json-api/getIbleStats?id=ED5Z5LNKCW8HY2E"; // please refer to the readme file for directions on 
